@@ -1,0 +1,21 @@
+
+===== USC EE557 Spring 2016 - Project 1 =====
+Name: [Kobe Kodachi]
+Email: [kodachi@usc.edu]
+
+Always Taken Predictor
+Total Prediction: 328143
+Prediction Rate: 0.513672
+
+2-Bit Global
+Total Prediction: 328143
+Prediction Rate: 0.699607
+
+Bimodal Predictor
+Total Prediction: 328143
+Prediction Rate: 0.835017
+
+Correlated Predictor
+Total Prediction: 328143
+Prediction Rate: 0.885352
+=============================================
