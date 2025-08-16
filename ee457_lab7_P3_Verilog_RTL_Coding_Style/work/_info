@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/modeltech64_10.6e/examples
+vee457_lab7_P3
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 j?ZZo9A?;e@>UT@0V@0dV2
+I>QCWO>H;FI@k`<og<[cVU0
+Z1 dC:/Modelsim_projects/ee457_lab7_P3_Verilog_RTL_Coding_Style
+w1490425582
+8C:/Modelsim_projects/ee457_lab7_P3_Verilog_RTL_Coding_Style/ee457_lab7_P3_RTL_Coding_Style.v
+FC:/Modelsim_projects/ee457_lab7_P3_Verilog_RTL_Coding_Style/ee457_lab7_P3_RTL_Coding_Style.v
+L0 15
+Z2 OL;L;10.6e;65
+Z3 !s108 1732330747.000000
+!s107 C:/Modelsim_projects/ee457_lab7_P3_Verilog_RTL_Coding_Style/ee457_lab7_P3_RTL_Coding_Style.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Modelsim_projects/ee457_lab7_P3_Verilog_RTL_Coding_Style/ee457_lab7_P3_RTL_Coding_Style.v|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z5 tCvgOpt 0
+nee457_lab7_@p3
+vee457_lab7_P3_tb
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 f<V1bNEeAhm=UbcoP0_YW2
+IhM=@SZ85[__7[WW:moA?<1
+R1
+w1510459343
+8C:/Modelsim_projects/ee457_lab7_P3_Verilog_RTL_Coding_Style/ee457_lab7_P3_RTL_Coding_Style_tb_r1_with_additional_tests_for_internal_forwarding.v
+FC:/Modelsim_projects/ee457_lab7_P3_Verilog_RTL_Coding_Style/ee457_lab7_P3_RTL_Coding_Style_tb_r1_with_additional_tests_for_internal_forwarding.v
+L0 23
+R2
+R3
+!s107 C:/Modelsim_projects/ee457_lab7_P3_Verilog_RTL_Coding_Style/ee457_lab7_P3_RTL_Coding_Style_tb_r1_with_additional_tests_for_internal_forwarding.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Modelsim_projects/ee457_lab7_P3_Verilog_RTL_Coding_Style/ee457_lab7_P3_RTL_Coding_Style_tb_r1_with_additional_tests_for_internal_forwarding.v|
+!i113 0
+R4
+R5
+nee457_lab7_@p3_tb
