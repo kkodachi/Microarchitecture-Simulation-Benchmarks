@@ -60,9 +60,7 @@ VOID Fini(INT32 code, VOID *v)
     OutFile.setf(ios::showbase);
       
     OutFile << endl;
-    OutFile << "===== USC EE557 Spring 2016 - Project 1 =====" << endl;
-    OutFile << "Name: " << "[Kobe Kodachi]" << endl;
-    OutFile << "Email: " << "[kodachi@usc.edu]" << endl;
+    OutFile << "===== Branch Predictor Results =====" << endl;
   
     OutFile << endl;
     OutFile << "Always Taken Predictor" << endl;
@@ -84,7 +82,7 @@ VOID Fini(INT32 code, VOID *v)
     OutFile << "Total Prediction: " << (double)correlated.References() << endl;
     OutFile << "Prediction Rate: " << (double)correlated.Predicts() / (double)correlated.References() << endl;
     
-    OutFile << "=============================================" << endl;
+    OutFile << "=====================================" << endl;
     
     OutFile.close();
 }

@@ -1,7 +1,5 @@
 
-===== USC EE557 Spring 2016 - Project 1 =====
-Name: [Kobe Kodachi]
-Email: [kodachi@usc.edu]
+===== Branch Predictor Results =====
 
 Always Taken Predictor
 Total Prediction: 87945
@@ -18,4 +16,4 @@ Prediction Rate: 0.802706
 Correlated Predictor
 Total Prediction: 87945
 Prediction Rate: 0.857468
-=============================================
+=====================================
