@@ -51,10 +51,15 @@ build/RISCV/gem5.opt ./configs/deprecated/example/se.py --cpu-type=RiscvO3CPU -P
 ### Results
 
 These can be verified in .txt files in the final directory.
+
 MIPS = simInsts / (simSeconds * 10^6)
+
 CCe MIPS: 80501 / (0.000035 * 10^6) = 2300.03
+
 EM5 MIPS: 39384 / (0.000030 * 10^6) = 1312.8
+
 RCf MIPS: 167944 / (0.000051 * 10^6) = 3292.04
+
 MC MIPS: 260625 / (0.000098 * 10^6) = 2660.46
 
 ## gem5 Memory Hierarchy
@@ -65,6 +70,14 @@ Similar command structure to the previous gem5 project
 <build/{ISA}/gem5.{variant}> <configuration script> <benchmark binary>
 
 ### Results
+
+| Design            | Instructions | Time (s) | MIPS   |
+|-------------------|--------------|----------|--------|
+| No cache          | 88,767,643   | 7.76     | 11.44  |
+| One level         | 88,767,643   | 0.44     | 201.74 |
+| Two level         | 88,767,643   | 0.37     | 239.91 |
+| Three level       | 88,767,643   | 0.37     | 239.91 |
+| No cache low power| 88,767,643   | 8.14     | 10.91  |
 
 The level two and level three cache designs resulted in the best performance. This is because the addition of a larger L2 cache prevents going back to main memory when a block is evicted from the L1 cache. The L3 cache in the three-level design was redundant due to the small matrix size (128x128 with 8B data). The 256KB L2 cache was sufficient, rendering the L3 cache unnecessary, as both two-level and three-level cache designs had identical performance.
 
