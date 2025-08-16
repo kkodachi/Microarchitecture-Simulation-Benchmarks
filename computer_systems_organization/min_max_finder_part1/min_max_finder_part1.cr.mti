@@ -1,0 +1,12 @@
+C:/Modelsim_projects/min_max_finder_part1/min_max_finder_part1_tb.v {1 {vlog -work work -vopt C:/Modelsim_projects/min_max_finder_part1/min_max_finder_part1_tb.v
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+Start time: 16:58:41 on Sep 08,2024
+vlog -reportprogress 300 -work work -vopt C:/Modelsim_projects/min_max_finder_part1/min_max_finder_part1_tb.v 
+-- Compiling module min_max_finder_part1_tb
+
+Top level modules:
+	min_max_finder_part1_tb
+End time: 16:58:41 on Sep 08,2024, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}}

@@ -1,0 +1,50 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modelsim_projects
+vmin_max_finder_part1
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 aM>Q<XJH11QhMX51MA:B83
+In08`F3=];0CQ1B6JlHn?Z0
+Z1 dC:/Modelsim_projects/min_max_finder_part1
+w1725840623
+8min_max_finder_part1.v
+Fmin_max_finder_part1.v
+L0 39
+Z2 OL;L;10.6e;65
+Z3 !s108 1725840640.000000
+!s107 min_max_finder_part1.v|
+!s90 -reportprogress|300|+acc|min_max_finder_part1.v|
+!i113 0
+Z4 o+acc -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z5 tCvgOpt 0
+vmin_max_finder_part1_tb
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 keUg?Ya`A:NUTVbzSMIl_1
+I[<MFfoLC09LhI6iZzZ[4@2
+R1
+w1515330125
+8min_max_finder_part1_tb.v
+Fmin_max_finder_part1_tb.v
+L0 38
+R2
+R3
+!s107 min_max_finder_part1_tb.v|
+!s90 -reportprogress|300|+acc|min_max_finder_part1_tb.v|
+!i113 0
+R4
+R5
